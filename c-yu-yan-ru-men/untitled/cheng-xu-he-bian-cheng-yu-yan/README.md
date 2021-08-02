@@ -85,3 +85,5 @@ $ echo $VAR
 
 编程语言仍在发展演化。以上介绍的机器语言称为第一代语言（1GL，1st Generation Programming Language） ，汇编语言称为第二代语言（2GL，2nd Generation Programming Language） ，C、C++、Java、Python等可以称为第三代语言（3GL，3rd Generation Programming Language） 。目前已经有了4GL（4th Generation Programming Language） 和5GL（5th Generation Programming Language） 的概念。3GL的编程语言虽然是用语句编程而不直接用指令编程，但语句也分为输入、输出、基本运算、测试分支和循环等几种，和指令有直接的对应关系。而4GL以后的编程语言更多是描述要做什么（Declarative） 而不描述具体一步一步怎么做（Imperative） ，具体一步一步怎么做完全由编译器或解释器决定，例如SQL语言（SQL，Structured Query Language，结构化查询语言） 就是这样的例子。
 
+## 
+
