@@ -1,4 +1,4 @@
-# Linux C编程一站式学习
+# Linux-C-Learning-All-In-One
 
 宋劲杉 北京亚嵌教育研究中心 songjinshan AT akaedu DOT org
 
