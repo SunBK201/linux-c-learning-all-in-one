@@ -6,7 +6,7 @@
 
 \[K&R\] The C Programming Language. Brian W. Kernighan和Dennis M. Ritchie. 2.
 
-\[Standard C\] Standard C: A Reference. P. J. Plauger和Jim Brodie.
+#### \[Standard C\] Standard C: A Reference. P. J. Plauger和Jim Brodie.
 
 \[Standard C Library\] The Standard C Library. P. J. Plauger.
 
@@ -16,7 +16,7 @@
 
 \[C99\] ISO/IEC 9899: Programming Languages － C. 2.
 
-\[数字逻辑基础\] Fundamentals of Digital Logic with VHDL Design. Stephen Brown和Zvonko Vranesic. 2.
+#### \[数字逻辑基础\] Fundamentals of Digital Logic with VHDL Design. Stephen Brown和Zvonko Vranesic. 2.
 
 \[IATLC\] Introduction to Automata Theory, Languages, and Computation. John E. Hopcroft、Rajeev Motwani和Jeffrey D. Ullman. 2.
 
