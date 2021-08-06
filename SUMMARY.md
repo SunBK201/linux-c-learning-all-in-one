@@ -27,8 +27,8 @@
 
 ## C语言本质 <a id="the-essence-of-c-language"></a>
 
-* [计算机中数的表示](the-essence-of-c-language/untitled/README.md)
-  * [为什么计算机用二进制计数](the-essence-of-c-language/untitled/why-do-computers-use-binary-counting.md)
+* [计算机中数的表示](the-essence-of-c-language/representation-of-numbers-in-a-computer/README.md)
+  * [为什么计算机用二进制计数](the-essence-of-c-language/representation-of-numbers-in-a-computer/why-do-computers-use-binary-counting.md)
 * [数据类型详解](the-essence-of-c-language/shu-ju-lei-xing-xiang-jie.md)
 * [运算符详解](the-essence-of-c-language/yun-suan-fu-xiang-jie.md)
 * [计算机体系结构基础](the-essence-of-c-language/ji-suan-ji-ti-xi-jie-gou-ji-chu.md)
