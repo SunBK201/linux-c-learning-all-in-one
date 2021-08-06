@@ -1,4 +1,4 @@
-# Linux-C-Learning-All-In-One
+# Linux C Learning All In One
 
 本书改编和包含了以下两本书的部分章节，这两本书均以 GNU Free Documentation License 发布。
 

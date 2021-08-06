@@ -52,11 +52,11 @@
 
 平台这个词有很多种解释，可以指计算机体系结构（Architecture） ，也可以指操作系统（Operating System） ，也可以指开发平台（编译器、链接器等）。不同的计算机体系结构有不同的指令集（Instruction Set） ，可以识别的机器指令格式是不同的，直接用某种体系结构的汇编或机器指令写出来的程序只能在这种体系结构的计算机上运行，然而各种体系结构的计算机都有各自的C编译器，可以把C程序编译成各种不同体系结构的机器指令，这意味着用C语言写的程序只需稍加修改甚至不用修改就可以在各种不同的计算机上编译运行。各种高级语言都具有C语言的这些优点，所以绝大部分程序是用高级语言编写的，只有和硬件关系密切的少数程序（例如驱动程序）才会用到低级语言。还要注意一点，即使在相同的体系结构和操作系统下，用不同的C编译器（或者同一个C编译器的不同版本）编译同一个程序得到的结果也有可能不同，C语言有些语法特性在C标准中并没有明确规定，各编译器有不同的实现，编译出来的指令的行为特性也会不同，应该尽量避免使用不可移植的语法特性。
 
-总结一下编译执行的过程，首先你用文本编辑器写一个C程序，然后保存成一个文件，例如program.c（通常C程序的文件名后缀是.c），这称为源代码（Source Code） 或源文件，然后运行编译器对它进行编译，编译的过程并不执行程序，而是把源代码全部翻译成机器指令，再加上一些描述信息，生成一个新的文件，例如a.out，这称为可执行文件，可执行文件可以被操作系统加载运行，计算机执行该文件中由编译器生成的指令，如下图所示：
+总结一下编译执行的过程，首先你用文本编辑器写一个C程序，然后保存成一个文件，例如program.c（通常C程序的文件名后缀是.c），这称为源代码（Source Code）或源文件，然后运行编译器对它进行编译，编译的过程并不执行程序，而是把源代码全部翻译成机器指令，再加上一些描述信息，生成一个新的文件，例如a.out，这称为可执行文件，可执行文件可以被操作系统加载运行，计算机执行该文件中由编译器生成的指令，如下图所示：
 
 ![&#x7F16;&#x8BD1;&#x6267;&#x884C;&#x7684;&#x8FC7;&#x7A0B;](https://linux-c-learning-all-in-one.readthedocs.io/zh_CN/latest/_images/intro.compile.png)
 
-有些高级语言以解释（Interpret） 的方式执行，解释执行过程和C语言的编译执行过程很不一样。例如编写一个Shell脚本script.sh，内容如下：
+有些高级语言以解释（Interpret）的方式执行，解释执行过程和C语言的编译执行过程很不一样。例如编写一个Shell脚本script.sh，内容如下：
 
 ```bash
 #! /bin/sh
@@ -72,7 +72,7 @@ $ /bin/sh script.sh
 2
 ```
 
-这里的 /bin/sh 称为解释器（Interpreter） ，它把脚本中的每一行当作一条命令解释执行，而不需要先生成包含机器指令的可执行文件再执行。如果把脚本中的这三行当作三条命令直接敲到Shell提示符下，也能得到同样的结果：
+这里的 /bin/sh 称为解释器（Interpreter），它把脚本中的每一行当作一条命令解释执行，而不需要先生成包含机器指令的可执行文件再执行。如果把脚本中的这三行当作三条命令直接敲到Shell提示符下，也能得到同样的结果：
 
 ```bash
 $ VAR=1
@@ -83,7 +83,7 @@ $ echo $VAR
 
 ![&#x89E3;&#x91CA;&#x6267;&#x884C;&#x7684;&#x8FC7;&#x7A0B;](https://linux-c-learning-all-in-one.readthedocs.io/zh_CN/latest/_images/intro.interpret.png)
 
-编程语言仍在发展演化。以上介绍的机器语言称为第一代语言（1GL，1st Generation Programming Language），汇编语言称为第二代语言（2GL，2nd Generation Programming Language），C、C++、Java、Python等可以称为第三代语言（3GL，3rd Generation Programming Language） 。目前已经有了4GL（4th Generation Programming Language） 和5GL（5th Generation Programming Language） 的概念。3GL的编程语言虽然是用语句编程而不直接用指令编程，但语句也分为输入、输出、基本运算、测试分支和循环等几种，和指令有直接的对应关系。而4GL以后的编程语言更多是描述要做什么（Declarative） 而不描述具体一步一步怎么做（Imperative） ，具体一步一步怎么做完全由编译器或解释器决定，例如SQL语言（SQL，Structured Query Language，结构化查询语言） 就是这样的例子。
+编程语言仍在发展演化。以上介绍的机器语言称为第一代语言（1GL，1st Generation Programming Language），汇编语言称为第二代语言（2GL，2nd Generation Programming Language），C、C++、Java、Python等可以称为第三代语言（3GL，3rd Generation Programming Language）。目前已经有了4GL（4th Generation Programming Language）和5GL（5th Generation Programming Language）的概念。3GL的编程语言虽然是用语句编程而不直接用指令编程，但语句也分为输入、输出、基本运算、测试分支和循环等几种，和指令有直接的对应关系。而4GL以后的编程语言更多是描述要做什么（Declarative）而不描述具体一步一步怎么做（Imperative），具体一步一步怎么做完全由编译器或解释器决定，例如SQL语言（SQL，Structured Query Language，结构化查询语言）就是这样的例子。
 
 ## 
 

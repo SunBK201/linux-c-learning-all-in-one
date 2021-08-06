@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Linux-C-Learning-All-In-One](README.md)
+* [Linux C Learning All In One](README.md)
 * [前言](preface.md)
 
 ## C语言入门 <a id="getting-started-with-c-language"></a>
