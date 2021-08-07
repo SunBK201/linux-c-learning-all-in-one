@@ -5,12 +5,12 @@
 
 ## C语言入门 <a id="getting-started-with-c-language"></a>
 
-* [程序的基本概念](getting-started-with-c-language/the-basic-concept-of-the-program/README.md)
-  * [程序和编程语言](getting-started-with-c-language/the-basic-concept-of-the-program/programs-and-programming-languages/README.md)
+* [1. 程序的基本概念](getting-started-with-c-language/the-basic-concept-of-the-program/README.md)
+  * [1. 程序和编程语言](getting-started-with-c-language/the-basic-concept-of-the-program/programs-and-programming-languages/README.md)
     * [习题](getting-started-with-c-language/the-basic-concept-of-the-program/programs-and-programming-languages/exercise.md)
-  * [自然语言和形式语言](getting-started-with-c-language/the-basic-concept-of-the-program/natural-language-and-formal-language.md)
-  * [程序的调试](getting-started-with-c-language/the-basic-concept-of-the-program/debug.md)
-  * [第一个程序](getting-started-with-c-language/the-basic-concept-of-the-program/the-first-program/README.md)
+  * [2. 自然语言和形式语言](getting-started-with-c-language/the-basic-concept-of-the-program/natural-language-and-formal-language.md)
+  * [3. 程序的调试](getting-started-with-c-language/the-basic-concept-of-the-program/debug.md)
+  * [4. 第一个程序](getting-started-with-c-language/the-basic-concept-of-the-program/the-first-program/README.md)
     * [习题](getting-started-with-c-language/the-basic-concept-of-the-program/the-first-program/exercises.md)
 * [常量、变量和表达式](getting-started-with-c-language/constants-variables-and-expressions.md)
 * [简单函数](getting-started-with-c-language/jian-dan-han-shu.md)

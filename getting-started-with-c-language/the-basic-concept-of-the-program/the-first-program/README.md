@@ -1,4 +1,4 @@
-# 第一个程序
+# 4. 第一个程序
 
 通常一本教编程的书中第一个例子都是打印“Hello, World.”，这个传统源自 [\[K&R\]](../../../appendix/reference.md#standardcstandardca-referencepj-plauger-he-jim-brodie)，用C语言写这个程序可以这样写：
 
