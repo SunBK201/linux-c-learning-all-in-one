@@ -4,11 +4,25 @@
 
 How To Think Like A Computer Scientist: Learning with C++
 
-> 作者Allen B. Downey。原书由Green Tea Press发行，可以从 [http://www.greenteapress.com/](http://www.greenteapress.com/) 下载到。
+> 作者Allen B. Downey。原书由Green Tea Press发行，可以从 [http://www.greenteapress.com/](http://www.greenteapress.com) 下载到。
 
 Programming from the Ground Up: An Introduction to Programming using Linux Assembly Language
 
 > 作者Jonathan Bartlett。原书由Bartlett Publishing发行，可以从 [http://savannah.nongnu.org/projects/pgubook/](http://savannah.nongnu.org/projects/pgubook/) 下载到。
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 

@@ -3,7 +3,7 @@
 * [Linux C Learning All In One](README.md)
 * [前言](preface.md)
 
-## C语言入门 <a id="getting-started-with-c-language"></a>
+## C语言入门 <a href="#getting-started-with-c-language" id="getting-started-with-c-language"></a>
 
 * [1. 程序的基本概念](getting-started-with-c-language/1/README.md)
   * [1. 程序和编程语言](getting-started-with-c-language/1/1.1/README.md)
@@ -12,7 +12,8 @@
   * [3. 程序的调试](getting-started-with-c-language/1/1.3.md)
   * [4. 第一个程序](getting-started-with-c-language/1/1.4/README.md)
     * [习题](getting-started-with-c-language/1/1.4/exercises.md)
-* [2. 常量、变量和表达式](getting-started-with-c-language/2.md)
+* [2. 常量、变量和表达式](getting-started-with-c-language/2/README.md)
+  * [1. 继续Hello World](getting-started-with-c-language/2/1.-ji-xu-hello-world.md)
 * [3. 简单函数](getting-started-with-c-language/3.md)
 * [4. 分支语句](getting-started-with-c-language/4.md)
 * [5. 深入理解函数](getting-started-with-c-language/5.md)
@@ -25,7 +26,7 @@
 * [12. 栈与队列](getting-started-with-c-language/12.md)
 * [13. 本阶段总结](getting-started-with-c-language/13.md)
 
-## C语言本质 <a id="the-essence-of-c-language"></a>
+## C语言本质 <a href="#the-essence-of-c-language" id="the-essence-of-c-language"></a>
 
 * [14. 计算机中数的表示](the-essence-of-c-language/14/README.md)
   * [1. 为什么计算机用二进制计数](the-essence-of-c-language/14/why-do-computers-use-binary-counting.md)
@@ -45,7 +46,7 @@
 * [26. 链表、二叉树和哈希表](the-essence-of-c-language/26.md)
 * [27. 本阶段总结](the-essence-of-c-language/27.md)
 
-## Linux系统编程 <a id="linux-system-programming"></a>
+## Linux系统编程 <a href="#linux-system-programming" id="linux-system-programming"></a>
 
 * [28. 文件与I/O](linux-system-programming/28.md)
 * [29. 文件系统](linux-system-programming/29.md)
@@ -58,9 +59,8 @@
 * [36. TCP/IP协议基础](linux-system-programming/36.md)
 * [37. socket编程](linux-system-programming/37.md)
 
-## 附录 <a id="appendix"></a>
+## 附录 <a href="#appendix" id="appendix"></a>
 
 * [字符编码](appendix/character-encoding.md)
 * [GNU Free Documentation License Version 1.3, 3 November 2008](appendix/gnu-free-documentation-license-version-1.3-3-november-2008.md)
 * [参考书目](appendix/reference.md)
-
