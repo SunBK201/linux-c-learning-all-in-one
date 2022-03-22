@@ -19,6 +19,7 @@
   * [3. 变量](getting-started-with-c-language/2/3.-bian-liang.md)
   * [4. 赋值](getting-started-with-c-language/2/4.-fu-zhi.md)
   * [5. 表达式](getting-started-with-c-language/2/5.-biao-da-shi.md)
+  * [6. 字符类型与字符编码](getting-started-with-c-language/2/6.-zi-fu-lei-xing-yu-zi-fu-bian-ma.md)
 * [3. 简单函数](getting-started-with-c-language/3.md)
 * [4. 分支语句](getting-started-with-c-language/4.md)
 * [5. 深入理解函数](getting-started-with-c-language/5.md)
