@@ -16,6 +16,7 @@
   * [1. 继续Hello World](getting-started-with-c-language/2/1.-ji-xu-hello-world.md)
   * [2. 常量](getting-started-with-c-language/2/2.-chang-liang/README.md)
     * [习题](getting-started-with-c-language/2/2.-chang-liang/xi-ti.md)
+  * [3. 变量](getting-started-with-c-language/2/3.-bian-liang.md)
 * [3. 简单函数](getting-started-with-c-language/3.md)
 * [4. 分支语句](getting-started-with-c-language/4.md)
 * [5. 深入理解函数](getting-started-with-c-language/5.md)
