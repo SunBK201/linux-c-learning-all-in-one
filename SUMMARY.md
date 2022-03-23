@@ -24,7 +24,7 @@
   * [1. 数学函数](getting-started-with-c-language/3/1.-shu-xue-han-shu.md)
   * [2. 自定义函数](getting-started-with-c-language/3/2.-zi-ding-yi-han-shu.md)
   * [3. 形参和实参](getting-started-with-c-language/3/3.-xing-can-he-shi-can.md)
-  * [Page 4](getting-started-with-c-language/3/page-4.md)
+  * [4. 全局变量、局部变量和作用域](getting-started-with-c-language/3/4.-quan-ju-bian-liang-ju-bu-bian-liang-he-zuo-yong-yu.md)
 * [4. 分支语句](getting-started-with-c-language/4.md)
 * [5. 深入理解函数](getting-started-with-c-language/5.md)
 * [6. 循环语句](getting-started-with-c-language/6.md)
