@@ -27,7 +27,7 @@
   * [4. 全局变量、局部变量和作用域](getting-started-with-c-language/3/4.-quan-ju-bian-liang-ju-bu-bian-liang-he-zuo-yong-yu.md)
 * [4. 分支语句](getting-started-with-c-language/4/README.md)
   * [1. if语句](getting-started-with-c-language/4/1.-if-yu-ju.md)
-  * [Page 2](getting-started-with-c-language/4/page-2.md)
+  * [2. if/else语句](getting-started-with-c-language/4/2.-ifelse-yu-ju.md)
   * [Page 3](getting-started-with-c-language/4/page-3.md)
   * [Page 4](getting-started-with-c-language/4/page-4.md)
 * [5. 深入理解函数](getting-started-with-c-language/5.md)
